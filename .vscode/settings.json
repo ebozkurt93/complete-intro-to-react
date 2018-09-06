@@ -2,5 +2,9 @@
   "prettier.parser": "flow",
   "prettier.printWidth": 120,
   "prettier.singleQuote": true,
-  "editor.formatOnSave": true
+  "editor.formatOnSave": false,
+  "eslint.options": {
+    "configFile": ".eslintrc.json"
+},
+"eslint.enable": true
 }
