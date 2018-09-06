@@ -1,0 +1,6 @@
+{
+  "prettier.parser": "flow",
+  "prettier.printWidth": 120,
+  "prettier.singleQuote": true,
+  "editor.formatOnSave": true
+}
