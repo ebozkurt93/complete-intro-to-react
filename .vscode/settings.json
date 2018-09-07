@@ -7,5 +7,6 @@
     "configFile": ".eslintrc.json"
 },
 "eslint.enable": true,
-"files.eol": "\n"
+"files.eol": "\n",
+"javascript.validate.enable": false,
 }
