@@ -1,10 +1,10 @@
 // @flow
 
+import type { RouterHistory } from 'react-router-dom';
 import React, { Component } from 'react';
 import { connect } from 'react-redux';
 import { Link } from 'react-router-dom';
 import { setSearchTerm } from './actionCreators';
-import type { RouterHistory } from 'react-router-dom';
 import SyntheticEvent from '../public/bundle';
 
 class Landing extends Component {
