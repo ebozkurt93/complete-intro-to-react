@@ -2,11 +2,11 @@
   "prettier.parser": "flow",
   "prettier.printWidth": 120,
   "prettier.singleQuote": true,
-  "editor.formatOnSave": false,
+  "editor.formatOnSave": true,
   "eslint.options": {
     "configFile": ".eslintrc.json"
-},
-"eslint.enable": true,
-"files.eol": "\n",
-"javascript.validate.enable": false,
+  },
+  "eslint.enable": true,
+  "files.eol": "\n",
+  "javascript.validate.enable": false,
 }
